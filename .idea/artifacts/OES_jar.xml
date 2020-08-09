@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OES:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OES_jar</output-path>
+    <root id="archive" name="OES.jar">
+      <element id="module-output" name="OES" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/GITHUB JAVA/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

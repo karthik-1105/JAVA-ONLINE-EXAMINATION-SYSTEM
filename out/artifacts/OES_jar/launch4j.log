@@ -1,0 +1,16 @@
+
+
+Version:	3.12
+CmdLine:	E:\OES\out\artifacts\OES_jar\OES.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\OES\out\artifacts\OES_jar\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre-9
+Check launcher:	C:\Program Files\Java\jre-9\bin\javaw.exe (OK)
+Main class:	E:\OES\out\artifacts\OES_jar\
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre-9\bin\javaw.exe
+Launcher args:	-classpath "E:\OES\out\artifacts\OES_jar\OES.exe" E:\OES\out\artifacts\OES_jar\
+Args length:	79/32768 chars
+Exit code:	0
